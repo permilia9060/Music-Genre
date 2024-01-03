@@ -1,1 +1,1 @@
-# Music-Genre
+This project focuses on predicting the 'danceability' of music genres using a Linear Regression model at the moment.  I will be trying other models as the project moves along. The dataset used for this analysis is sourced from Music Genre and is preprocessed to handle missing values and drop irrelevant columns. The machine learning model is trained using scikit-learn, and the project showcases proficiency in data preprocessing, model implementation, and evaluation.
